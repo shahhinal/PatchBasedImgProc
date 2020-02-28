@@ -1,5 +1,5 @@
 ## Introduction
-This is MATLAB implementation of paper: W. Kim, “Image Enhancement Using Patch-Based Principal Energy Analysis,” IEEE Access, vol. 6, pp. 72620–72628, 2018.vv for Cal Poly Pomona Univ. course cs5550 as final project.
+This is MATLAB- App Designer implementation of paper: W. Kim, “Image Enhancement Using Patch-Based Principal Energy Analysis,” IEEE Access, vol. 6, pp. 72620–72628, 2018.vv for Cal Poly Pomona Univ. course cs5550 as final project.
 This paper proposes enhancement technique that decomposes the intensity channel and uses patch based principal energy 
 which is an illumination component at each pixel.The proposed method uses conventional orthogonal transform for solving illumination-reflectance decomposition
 <br/>
